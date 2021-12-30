@@ -1,0 +1,24 @@
+{
+  "name": "cypress-todomvc-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanbs9/cypress-todomvc-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanbs9/cypress-todomvc-tests/issues"
+  },
+  "homepage": "https://github.com/jonathanbs9/cypress-todomvc-tests#readme",
+  "dependencies": {
+    "cypress": "^9.2.0"
+  }
+}
